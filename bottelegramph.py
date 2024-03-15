@@ -5,6 +5,9 @@ import logging
 from telethon.sessions import StringSession
 import telebot
 
+import streamlit as st
+
+st.title("Replicador de Mensagem do Telegram")
 
 
 chave_api = "5394656938:AAGIHpWyklXhhTGzGuJvzwDowjXj8tCPlPc"
