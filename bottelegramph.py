@@ -1,4 +1,3 @@
-import MetaTrader5 as mt5
 import time
 from telethon import TelegramClient, events
 import logging
